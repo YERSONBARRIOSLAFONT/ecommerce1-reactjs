@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.estilo1 {
+  background-color: #FFFFFF;
+  color: #6bcdb1;
+}
+.estilo2 {
+  background-color: #151515;
+  color: #6bcdb1;
+}
+.navbar {
+  background-color: #6bcdb1;
+  color: #151515;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+/* .alineacion-cartWidget {
+top: 10;
+} */
+.estilo-footer {
+background-color: #4A4A4A;
+color: #FFFFFF;
+padding-top: 4rem;
+padding-bottom: 4rem;
+}
+body {
+  font-family: Rubik;
+}
+.alineacion-dataScience {
+  margin: 6em;
+  padding-left: 4em;
+  padding-right: 4em;
+  align-items: center;
+  }
+
+  .btn-danger {
+    background-color:  #6BCDB1 !important;
+    border: #6BCDB1;
+    color: black;
+  }
+
+  .bagStile {
+    border: none;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-top: 5px;
+  }
+
+  .bagColor:hover {
+    background-color: orange ;
+  }
+
+  .btn-primary {
+    color: white;
+    background-color: #6bcdb1 !important;
+    border: 1px #6BCDB1 !important ;
+    
+  }
